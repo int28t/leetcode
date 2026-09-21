@@ -1,3 +1,4 @@
+// https://coderun.yandex.ru/selections/yandex-interview/problems/consecutive-ones
 package main
 
 import (

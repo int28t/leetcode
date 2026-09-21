@@ -1,3 +1,4 @@
+// https://coderun.yandex.ru/selections/yandex-interview/problems/rocks-and-jewels
 package main
 
 import (
